@@ -1,0 +1,17 @@
+{
+	"name": "soundin",
+	"version": "1.0.0",
+	"description": "",
+	"main": "soundin.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rektide/soundin.git"
+	},
+	"authors": ["rektide"],
+	"license": "",
+	"readmeFilename": "README",
+	"gitHead": "79e5a36c5faf3c32c5efb44ee13000c3543edaf9"
+}
